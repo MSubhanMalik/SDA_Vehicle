@@ -3,7 +3,7 @@ A file-based, text-menu driven information system for an automobile insurance co
 
 ---
 
-## Features
+## Featuressadas
 - Multi-role staff login (Manager, Salesman, Surveyor)
 - Customer portal for filing and tracking claims
 - Full claim lifecycle: File → Inspect → Approve/Reject → Settle
